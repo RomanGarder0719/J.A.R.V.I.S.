@@ -1,8 +1,6 @@
-# Kesha v3.0 very early (aka Jarvis update)
 Simple Voice Assistant made as an experiment using [Silero](https://github.com/snakers4/silero-models) & [Vosk](https://pypi.org/project/vosk/).
 <br>Later on [Picovoice Porcupine Wake Word Detection](https://picovoice.ai/platform/porcupine/) & [ChatGPT](https://chat.openai.com/) was added.
 
-![image](https://i.pinimg.com/originals/63/e9/b7/63e9b72b983793f64bffc07fd14a0e62.jpg)
 
 `The code has NOT been polished and is provided "as is". There are a lot of code that are redundant and there are tons of improvements that can be made.`
 
@@ -20,11 +18,7 @@ You can get the latest from the [official website.](https://alphacephei.com/vosk
 I was using Python `3.8.3`, but it should work on any newer version.
 
 # ToDo
-- Адекватная архитектура кода, собрать всё и переписать from the ground up. 
-- Задержка воспроизведения звука на основе реальной длительности .wav файла (прогружать при запуске?)
-- Speech to intent? 
-- Отключать self listening protection во время воспроизведения с наушников. 
-- Указание из списка или по имени будет реализовано позже.
+- Расписать TODO
 
 # Author
-(2022) Abraham Tugalov
+some guys
